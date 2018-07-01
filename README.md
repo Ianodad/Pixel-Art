@@ -7,8 +7,8 @@
 
 * [Description](#Description)
 * [Preview](#Preview)
-* [Technologies Used](#Technologies Used)
-* [Support and contact details](# Support and contact details)
+* [Technologies](#Technologies)
+* [Support](#Support)
 * [License](###License)
 
 
@@ -22,7 +22,7 @@ The user can the user the color picker to select colors and the use to piant the
 ## Preview
 **[Click here](https://ianodad.github.io/Pixel-Art/)** to see the live site.
 
-## Technologies Used
+## Technologies 
     1. HTML
     2. Bootstrap
     3. Animate css
@@ -30,7 +30,7 @@ The user can the user the color picker to select colors and the use to piant the
     5. jQuery
 
 
-# Support and contact details
+# Support 
 Contact me on developer.ianodad@gmail.com for any comments, reviews or advice.
 
 
